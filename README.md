@@ -178,5 +178,14 @@ The embedding module supports SentenceTransformers models, as well as the follow
 > **Note:** This repository contains the implementation used to run the PaceMaker pipeline. Some additional model configurations reported in the paper were evaluated using separate experimental code and are not included in the current release.
 
 ## Citation
-
-Citation information will be added soon.
+```bibtex
+@misc{kim2026pacesurfacinghiddenconflicts,
+      title={PACE: Towards Surfacing Hidden Conflicts in User Requests}, 
+      author={Yoojin Kim and Jihyoung Jang and Hyounghun Kim},
+      year={2026},
+      eprint={2609.03293},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2609.03293}, 
+}
+```
